@@ -5,6 +5,7 @@ Dallas, TX. February 2017. We were 4 seniors at UT Dallas with too much time on 
 
 1. Gain 2 tickets from purchasing a drink at the resturaunt, one of was a puzzle piece for a big reward. The other was a code for an online lottery(for food and merch) or an instant prize.
 2. Once a day, gain a code for the online lottery by playing a game on an app.
+3. For the online lottery, prizes would be released throughout the day(hidden from user). The first code to be entered after this release would claim the prize.
 
 Sensing an opportunity to win, we decided to all download the app and start playing daily, and enlisted several close friends to help us. Rather than use the codes right away, we stockpiled them in a shared document while we decided to do some analysis on the lottery.
 
