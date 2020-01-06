@@ -19,14 +19,14 @@ After some research, we discovered that results for the lottery were published o
 The full exploration can be found in this [notebook](https://github.com/EZBUTD/Cracking-Canes/blob/master/Exploration%20and%20visualization.ipynb), but the main points of interest we found were:
 
 Overall, prizes were claimed mostly evenly throughout the day
-![](hourandtimelastwon.jpg)
+![](hourandtimelastwon.JPG)
 
 Assuming most prizes were claimed soon after they were released for the lottery:
 The mean cooldown time was around 7 minutes, but the majority of prizes were claimed within a 5 minute cooldown.
-![](timelastwondist.jpg)
+![](timelastwondist.JPG)
 
 There seemed to be an uneven cooldown distribution across prizes. Our sample size was relatively small, but in general, better prizes were released after a longer cooldown period.
-![](Prize-timelastwon.jpg)
+![](Prize-timelastwon.JPG)
 
 ## Results
 
@@ -36,7 +36,7 @@ There seemed to be an uneven cooldown distribution across prizes. Our sample siz
 
 When the promotion came around again in 2018, we went for full exploitation. We stuck to a 5 minute cooldown during night and spread out our entries before the last day. Overall, this worked incredibly well for us, leading to our $400 win at the beginning of the post.
 
-![](Prizes201718.jpg)
+![](Prizes201718.JPG)
 
 In 2019 though, it was apparant that our strategy was noticed. Canes implemented additional rules to block our strategies, limiting entries per account and preventing stockpiling of codes by having them expire soon after generation. While there was certainly opportunity to circumvent these rules with additional scripting, we came to the conclusion that it would be best to stop here. We weren't students anymore and had normal work to deal with on a day to day basis. It was a great run though, with some amazing memories made along the way. Every meal at Canes now, even if it's not free anymore, comes with a great sensation of nostalgia and I'm glad we took this journey.
 
